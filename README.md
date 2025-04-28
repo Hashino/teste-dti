@@ -16,7 +16,7 @@ necessárias.
 
 ## Premissas
 
-### Lingugagem C
+### Linguagagem C
 Instruções de implementação sugerem a utilização de React para a construção de
 interface do usuário, porém as especificações da aplicação apontam para uma
 aplicação de terminal. Assumi que a aplicação é de terminal e implementei em C,
